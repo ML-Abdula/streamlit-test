@@ -1,0 +1,14 @@
+node_modules
+.git
+.gitignore
+Dockerfile
+.dockerignore
+*.log
+.env
+__pycache__/
+*.pyc
+dist
+build
+coverage
+*.egg-info
+.eggs
